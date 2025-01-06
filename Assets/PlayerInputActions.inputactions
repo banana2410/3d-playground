@@ -1,0 +1,34 @@
+{
+    "name": "Input Actions",
+    "maps": [
+        {
+            "name": "Movement",
+            "id": "3390a02c-8dbb-4826-af2a-608dfbe2c078",
+            "actions": [
+                {
+                    "name": "Test",
+                    "type": "Button",
+                    "id": "5bcd828f-7254-4e3c-8886-d8f5fac717f3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3e7bc65c-7ad9-45ca-a203-db02beb9f15c",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Test",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
